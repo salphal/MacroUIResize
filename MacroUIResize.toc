@@ -2,4 +2,5 @@
 ## Title: 宏界面大小(10x12布局)
 ## Notes: 宏界面大小(10x12布局)
 
+MacroUIResizeConfig.lua
 MacroUIResize.lua
